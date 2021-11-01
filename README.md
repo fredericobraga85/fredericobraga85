@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Senior Backend Engineer
+I'm a Senior Backend Engineer @ X-Team
 
-### Currently working with following stack
+### Currently working with the following stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
